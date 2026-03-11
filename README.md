@@ -321,3 +321,5 @@ ip addr show eno1
 **Router** - helps to get connect 2 diff networks
 
 - **Router** has connected to 2 diff networks. So, we would have to assign 2 diff ip address from 2 diff networks to this router for communications.
+
+
